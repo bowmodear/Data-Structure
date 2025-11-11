@@ -1,4 +1,6 @@
-public class AlgorithmSearch {
+package AlgorithmSearch;
+
+public class Algorithm_Search {
     /*
         Linear Algorithm:
          1.Start at i=0

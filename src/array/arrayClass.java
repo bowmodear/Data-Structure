@@ -67,5 +67,4 @@ boolean isFull(){
         }
         arr =newarr;
     }
-
 }
